@@ -1,0 +1,26 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aishyuu/testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aishyuu/testing-practice/issues"
+  },
+  "homepage": "https://github.com/aishyuu/testing-practice#readme",
+  "dependencies": {
+    "jest": "^29.4.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.4.0"
+  }
+}
